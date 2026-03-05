@@ -1,0 +1,7 @@
+title: Blog của tôi
+description: Blog chia sẻ lập trình
+theme: minima
+
+markdown: kramdown
+
+permalink: /:title/
