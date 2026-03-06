@@ -1,6 +1,6 @@
 title: N.H.A Documentations & Blogs
 description: Chia sẻ kiến thức lập trình thu nhặt được
-theme: minima
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 
